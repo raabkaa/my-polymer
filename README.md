@@ -6,7 +6,7 @@ The repository is a _GitHub template_ repository so you can click "Use this temp
 
 ![GitHub template](./img/gh_template.png)
 
-### 📚 Documentation
+#### 📚 Documentation
 
 There's some basic information here in the README but a more comprehensive documentation can be found in [the official Polymer documentation](https://docs.polymerlabs.org/docs/category/build-ibc-dapps-1).
 
@@ -39,7 +39,7 @@ to install the [vIBC core smart contracts](https://github.com/open-ibc/vibc-core
 
 Additionally Hardhat will be installed as a dev dependency with some useful plugins. Check `package.json` for an exhaustive list.
 
-## ⚙️ Set up your environment variables
+### ⚙️ ⚙️ Set up your environment variables
 
 Convert the `.env.example` file into an `.env` file. This will ignore the file for future git commits as well as expose the environment variables. Add your private keys and update the other values if you want to customize (advanced usage feature).
 
